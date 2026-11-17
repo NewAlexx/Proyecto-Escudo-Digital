@@ -1,0 +1,11 @@
+# Compilados
+out/
+*.class
+
+# Datos locales y clave de la API (no subir a GitHub)
+config.properties
+escudo.dat
+
+# IntelliJ
+.idea/workspace.xml
+.idea/shelf/

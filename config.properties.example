@@ -1,0 +1,4 @@
+# Copia este archivo como config.properties y pega tu clave gratuita de VirusTotal.
+# config.properties está en .gitignore: la clave no se sube a GitHub.
+# La clave se obtiene en https://www.virustotal.com (perfil > API Key).
+vt.apikey=

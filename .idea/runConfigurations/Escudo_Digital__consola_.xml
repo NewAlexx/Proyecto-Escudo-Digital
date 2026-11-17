@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Escudo Digital (consola)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="interfaz.Main" />
+    <module name="EscudoDigital" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
