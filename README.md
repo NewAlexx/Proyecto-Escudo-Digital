@@ -20,7 +20,7 @@ Proyecto de Programación II (ISWZ1103), Universidad de Las Américas.
 5. Solo se permite una cuenta por equipo. Los datos se guardan en `escudo.dat` y **solo se borran cuando el usuario lo decide**: "Limpiar mi historial" o "Eliminar mi cuenta".
 
 ## Clave de VirusTotal (opcional)
-1. Crear una cuenta gratuita en VirusTotal y copiar la API Key del perfil.
+1. Crear una cuenta gratuita en VirusTotal y copiar la API Key del perfil!
 2. Copiar `config.properties.example` como `config.properties` y pegar la clave en `vt.apikey=`.
 3. Sin clave, el análisis de mensajes funciona igual, pero sin consultar la reputación de los enlaces.
 
